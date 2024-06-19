@@ -5,4 +5,3 @@
 [submodule "gimme"]
 	path = gimme
 	url = https://github.com/gateslab/gimme
-	subdir = gimme
